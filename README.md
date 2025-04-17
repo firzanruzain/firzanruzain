@@ -38,4 +38,27 @@ Here are some ideas to get you started:
 **Database Management**  
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-Beginner-003B57?logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Beginner-3EC
+![Supabase](https://img.shields.io/badge/Supabase-Beginner-3ECF8E?logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Beginner-FFCA28?logo=firebase&logoColor=black)
+
+**Development Workflow & Tools**  
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?logo=github)
+![CI/CD](https://img.shields.io/badge/CI/CD_Basics-GitHub_Actions_&_Expo_EAS_Build-blue)
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-Beginner-FFCA28?logo=firebase)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-Basic-lightgrey)
+![Postman](https://img.shields.io/badge/Postman-Tool-FF6C37?logo=postman)
+![React Native Debugger](https://img.shields.io/badge/RN_Debugger-Tool-purple)
+![Expo Go](https://img.shields.io/badge/Expo_Go-Tool-black)
+
+**Software & Tools**  
+![Figma](https://img.shields.io/badge/Figma-Beginner-F24E1E?logo=figma&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-Excellent-D83B01?logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-Excellent-4285F4?logo=googleworkspace&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Excellent-00C4CC?logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-Excellent-31A8FF?logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-FF9A00?logo=adobeillustrator&logoColor=white)
+
+**🧠 Soft Skills & Languages**  
+💬 Strong communication & leadership • Problem-solving • Critical thinking • Time management • Adaptable  
+🌐 Languages: 🇲🇾 Malay (Native), 🇬🇧 English (Fluent)
