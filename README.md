@@ -1,21 +1,23 @@
-## Hi there 👋
+### 👋 About Me
+Hi, I'm Muhammad Firzan Ruzain — a passionate (soon-to-be) Computer Science graduate with a strong love for problem-solving since childhood. That curiosity has grown into a deep motivation to become a skilled software developer.
 
-### About Me
-I am Muhammad Firzan Ruzain a typical yet passionate Computer Science Graduate (soon). I have been very pasionate in problem solvings since I was a kid and which make me a highly motivated programmer. I seek opportunities to grow not just as a software developer but also as a leader. Also as a tech geek, I love to explore and trying out new technologies and developing software solutions.
+I’m always seeking opportunities to grow, not just technically, but also as a leader. As a tech enthusiast, I enjoy exploring new tools and technologies, and I'm constantly experimenting with innovative software solutions.
 
----
-
-### Contacts
-- Email: firzanruzain@gmail.com
-- LinkedIn: https://www.linkedin.com/in/firzan-ruzain-bin-firdus/
+Let’s build something meaningful together!
 
 ---
 
-### Educational Background
-**Multimedia University | Cyberjaya** 
-- Bachelor of Computer Science (Hons.) (Software Engineering)
-- 2021 - 2025
-- CGPA: 3.61
+### 📫 Contacts
+- 📧 [Email](mailto:firzanruzain@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/firzan-ruzain-bin-firdus/)
+
+---
+
+### 🎓 Educational Background
+**Multimedia University | Cyberjaya**  
+📘 Bachelor of Computer Science (Hons.) (Software Engineering)  
+📅 2021 - 2025  
+📈 CGPA: 3.61  
 
 ---
 
