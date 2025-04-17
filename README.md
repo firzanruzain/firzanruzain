@@ -1,19 +1,23 @@
 ## Hi there 👋
 
-<!--
-**firzanruzain/firzanruzain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am Muhammad Firzan Ruzain a typical yet passionate Computer Science Graduate (soon). I have been very pasionate in problem solvings since I was a kid and which make me a highly motivated programmer. I seek opportunities to grow not just as a software developer but also as a leader. Also as a tech geek, I love to explore and trying out new technologies and developing software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
--->
+### Contacts
+- Email: firzanruzain@gmail.com
+- LinkedIn: https://www.linkedin.com/in/firzan-ruzain-bin-firdus/
+
+---
+
+### Educational Background
+**Multimedia University | Cyberjaya** 
+- Bachelor of Computer Science (Hons.) (Software Engineering)
+- 2021 - 2025
+- CGPA: 3.61
+
+---
 
 ### 🛠️ Technical Skills
 
@@ -58,7 +62,3 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/Canva-Excellent-00C4CC?logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-Excellent-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-FF9A00?logo=adobeillustrator&logoColor=white)
-
-**🧠 Soft Skills & Languages**  
-💬 Strong communication & leadership • Problem-solving • Critical thinking • Time management • Adaptable  
-🌐 Languages: 🇲🇾 Malay (Native), 🇬🇧 English (Fluent)
