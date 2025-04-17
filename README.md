@@ -21,6 +21,57 @@ Let’s build something meaningful together!
 
 ---
 
+### 💼 Projects
+
+#### 🌍 EnviroReport (Full Stack Mobile App) – *Ongoing, Nov 2024*
+A mobile application built for environmental incident reporting and management — developed as a Final Year Project for the Department of Environment (DOE).
+
+**Tech Stack:** React Native, NativeWind, Expo, Firebase, Supabase  
+**Key Features:**
+- 📍 Public users can submit reports with media + location.
+- 🧩 Dynamic form builder for staff (drag-and-drop fields).
+- 🔐 Firebase Auth for secure login; Supabase for data/API.
+- 🧑‍💻 TypeScript & NativeWind for cross-platform, styled UI.  
+
+---
+
+#### 🎓 FYPWise (Full Stack Web App) – *Feb 2025*
+A CMS platform to manage Final Year Projects, designed to support universities with role-based functionality for moderators, students, and supervisors.
+
+**Tech Stack:** PHP (custom framework), HTML, CSS, JavaScript  
+**Key Features:**
+- 📑 Project proposal submission, supervisor assignment, progress tracking.
+- 🧠 Self-built PHP MVC framework + custom routing system.
+- 📱 Responsive interface with modular architecture.  
+[🔗 GitHub Repo](https://github.com/FYPWise/FYPWise-web)
+[🔗 Demo](http://firzanruzain.ct.ws/)
+
+---
+
+#### ♟️ Talabia Chess – *Feb 2025*
+A unique chess game variant created using Java and JavaFX with a focus on expandable rules and clean UI.
+
+**Tech Stack:** Java, JavaFX  
+**Key Features:**
+- 🎮 Interactive GUI, real-time gameplay, and feedback.
+- 🧱 Modular design with full OOP principles.
+- ✅ Turn-based logic, move validation, and state management.  
+[🔗 GitHub Repo](https://github.com/firzanruzain/TalabiaChess)
+
+---
+
+#### 💉 COVID-19 Vaccination Appointment System – *July 2021*
+A desktop app for managing vaccination appointments with real-time updates and admin control features.
+
+**Tech Stack:** Python, Tkinter  
+**Key Features:**
+- 👤 Medical history updates, appointment booking, infection risk info.
+- 🛠 Admin panel to manage vaccine centers, records, and users.
+- ✅ Input validation and real-time tracking dialogs.  
+[🔗 GitHub Repo](https://github.com/firzanruzain/Vaccination_Appointment_System)
+
+---
+
 ### 🛠️ Technical Skills
 
 **Programming Languages**  
