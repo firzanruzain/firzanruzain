@@ -28,10 +28,11 @@ A mobile application built for environmental incident reporting and management �
 
 **Tech Stack:** React Native, NativeWind, Expo, Firebase, Supabase  
 **Key Features:**
-- 📍 Public users can submit reports with media + location.
-- 🧩 Dynamic form builder for staff (drag-and-drop fields).
-- 🔐 Firebase Auth for secure login; Supabase for data/API.
-- 🧑‍💻 TypeScript & NativeWind for cross-platform, styled UI.  
+- Public users can submit reports with media + location.
+- Dynamic form builder for staff (drag-and-drop fields).
+- Firebase Auth for secure login; Supabase for data/API.
+- TypeScript & NativeWind for cross-platform, styled UI.  
+[🔗 GitHub Repo](https://github.com/firzanruzain/EnviroReport)
 
 ---
 
@@ -40,9 +41,9 @@ A CMS platform to manage Final Year Projects, designed to support universities w
 
 **Tech Stack:** PHP (custom framework), HTML, CSS, JavaScript  
 **Key Features:**
-- 📑 Project proposal submission, supervisor assignment, progress tracking.
-- 🧠 Self-built PHP MVC framework + custom routing system.
-- 📱 Responsive interface with modular architecture.  
+- Project proposal submission, supervisor assignment, progress tracking.
+- Self-built PHP MVC framework + custom routing system.
+- Responsive interface with modular architecture.  
 [🔗 GitHub Repo](https://github.com/FYPWise/FYPWise-web)
 [🔗 Demo](http://firzanruzain.ct.ws/)
 
@@ -53,9 +54,9 @@ A unique chess game variant created using Java and JavaFX with a focus on expand
 
 **Tech Stack:** Java, JavaFX  
 **Key Features:**
-- 🎮 Interactive GUI, real-time gameplay, and feedback.
-- 🧱 Modular design with full OOP principles.
-- ✅ Turn-based logic, move validation, and state management.  
+- Interactive GUI, real-time gameplay, and feedback.
+- Modular design with full OOP principles.
+- Turn-based logic, move validation, and state management.  
 [🔗 GitHub Repo](https://github.com/firzanruzain/TalabiaChess)
 
 ---
@@ -65,9 +66,9 @@ A desktop app for managing vaccination appointments with real-time updates and a
 
 **Tech Stack:** Python, Tkinter  
 **Key Features:**
-- 👤 Medical history updates, appointment booking, infection risk info.
-- 🛠 Admin panel to manage vaccine centers, records, and users.
-- ✅ Input validation and real-time tracking dialogs.  
+- Medical history updates, appointment booking, infection risk info.
+- Admin panel to manage vaccine centers, records, and users.
+- Input validation and real-time tracking dialogs.  
 [🔗 GitHub Repo](https://github.com/firzanruzain/Vaccination_Appointment_System)
 
 ---
