@@ -8,7 +8,7 @@ Let’s build something meaningful together!
 ---
 
 ### 📫 Contacts
-- 📧 [Email](mailto:firzanruzain@gmail.com)
+- 📧 firzanruzain@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/firzan-ruzain-bin-firdus/)
 
 ---
